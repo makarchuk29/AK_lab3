@@ -2,6 +2,7 @@
 
 int Calculator::Add (double a, double b)
 {
+	//lab3
 	return a + b + 0.5;
 }
 
